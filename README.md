@@ -2,54 +2,43 @@
 
 A Api PlaceTop é um API criado para retornar e cadastrar comércios,hospitais,hóteis,restaurantes e padarias da cidade de Campo Maior no Piauí. O objetivo é criar aplicações que consumam esses dados e desse modo alavancar o comércio local
 
-## Getting Started
+## Link da Aplicação
  
 (https://gist.github.com/PurpleBooth/b24679402957c63ec426) 
 
-
-
+## Rotas
 ```
-Give an example
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+```
+```
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+```
+```
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+```
+```
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+```
+```
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
-## Deployment
+## Tecnologias Usadas
 
-Add additional notes about how to deploy this on a live system
+* Node JS
+* Express
+* MongoDB
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kleidimilson Ibiapina** - *Initial work* - [Kleidimilson Ibiapina](https://github.com/kleidimilson/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
