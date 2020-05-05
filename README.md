@@ -4,27 +4,8 @@ A Api PlaceTop é um API criado para retornar e cadastrar comércios,hospitais,h
 
 ## Link da Aplicação
  
-(https://gist.github.com/PurpleBooth/b24679402957c63ec426) 
 
-## Rotas
-```
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-```
-```
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-```
-```
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-```
-```
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-```
-```
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-```
-
-
-
+## Ro
 
 ## Tecnologias Usadas
 
