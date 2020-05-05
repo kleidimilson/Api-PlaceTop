@@ -2,10 +2,6 @@
 
 A Api PlaceTop é um API criado para retornar e cadastrar comércios,hospitais,hóteis,restaurantes e padarias da cidade de Campo Maior no Piauí. O objetivo é criar aplicações que consumam esses dados e desse modo alavancar o comércio local
 
-## Link da Aplicação
- 
-
-## Ro
 
 ## Tecnologias Usadas
 
